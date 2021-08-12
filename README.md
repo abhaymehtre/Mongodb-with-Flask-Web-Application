@@ -50,7 +50,7 @@ Serving Flask app "main" (lazy loading)
  * Running on http://<ip-address>:5000/ (Press CTRL+C to quit)
  * Restarting with stat
  * Debugger is active!
- * Debugger PIN: <random generated>
+ * Debugger PIN: (random generated)
 
 
 Use the above generated ip address along with the port number on other Virtual Machine for generating the result.
