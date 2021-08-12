@@ -1,5 +1,7 @@
 # Web-Application-using-Flask-and-Mongodb
 
+#### A simple web application that is developed using python using flask service. This application gives an idea of using multiple VM's for the code execution and the deployment on different virtual machines.
+
 ## Commands to setup the mongodb on the machine.
 1. curl -fsSL https://www.mongodb.org/static/pgp/server-4.4.asc | sudo apt-key add -
 2. apt-key list
