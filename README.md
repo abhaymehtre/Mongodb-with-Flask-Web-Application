@@ -11,3 +11,5 @@
 6. sudo systemctl start mongod.service
 7. sudo systemctl status mongod
 8. sudo systemctl enable mongod
+
+## Commands to setup the flask and python services.
