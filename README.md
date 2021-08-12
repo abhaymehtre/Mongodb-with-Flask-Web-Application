@@ -4,13 +4,21 @@
 
 ## Commands to setup the flask and python services.
 Installation of Python3 and its packages:
+
 •	Please follow the below commands, if there is any difficulty in installing the python packages.
+
 o	Command 1: sudo apt update
+
 o	Command 2: sudo apt install software-properties-common
+
 o	Command 3: sudo add-apt-repository ppa:deadsnakes/ppa
+
 o	Command 4: sudo apt install python3.9
+
 •	Verification of the installation was successful.
+
 o	Command: python3.9 –version
+
 That’s it. Python 3.9 is installed on your Ubuntu, and you can start using it.
 
 ## Commands to install python dependencies
