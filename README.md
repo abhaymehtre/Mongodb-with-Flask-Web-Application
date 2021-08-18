@@ -43,7 +43,8 @@ Please follow the below stuff to configure the database as required for the appl
 1. command 1 : mongo ( This will open the CLI interface in the terminal , connect to the mongo database)
 2. Command 2 : show dbs; ( Shows list of databases present)
 3. Command 3 : use mymongodb ( Creates a new database)
-4. Command 4 : db.createCollection(name) ( Creates an new collection and ensure that the collection name here used is todo).
+4. Command 4 : db.createCollection(name) ( Creates an new collection and ensure that the collection name here used is todo). 
+Syntax or command that need to be used is : db.createCollection("todo"); This will create the collection under the mymongodb database.
 
 After the completion of the all these setup you can fire up your web based application by using python3 app.py.
 
